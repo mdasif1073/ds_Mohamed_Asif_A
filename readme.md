@@ -23,7 +23,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/your-username/ds_<candidate_name>.git
+git clone https://github.com/mdasif1073/ds_Mohamed_Asif_A.git
 Access the Notebook:
 The core analysis and code are located in notebook_1.ipynb. This notebook is designed to be run in Google Colab. The code is well-commented and self-explanatory.
 
